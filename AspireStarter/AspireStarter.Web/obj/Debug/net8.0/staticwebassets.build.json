@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Eu3g+Qmtcl4AUelzotr5mZ65AzsPuJlf0m3Qtp07SDY=",
+  "Hash": "uTSr4IkO3mcMJ8R0flxAFzwE9lz+PtmFMeERJlEFhOw=",
   "Source": "AspireStarter.Web",
   "BasePath": "_content/AspireStarter.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AspireStarter.Web\\wwwroot",
       "Source": "AspireStarter.Web",
-      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
       "BasePath": "_content/AspireStarter.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireStarter.Web.styles.css",
+      "Identity": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireStarter.Web.styles.css",
       "SourceId": "AspireStarter.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AspireStarter.Web",
       "RelativePath": "AspireStarter.Web.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireStarter.Web.styles.css"
+      "OriginalItemSpec": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireStarter.Web.styles.css"
     },
     {
-      "Identity": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireStarter.Web.bundle.scp.css",
+      "Identity": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireStarter.Web.bundle.scp.css",
       "SourceId": "AspireStarter.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AspireStarter.Web",
       "RelativePath": "AspireStarter.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireStarter.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireStarter.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\app.css",
+      "Identity": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\app.css",
       "SourceId": "AspireStarter.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
       "BasePath": "_content/AspireStarter.Web",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "AspireStarter.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
       "BasePath": "_content/AspireStarter.Web",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "AspireStarter.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
       "BasePath": "_content/AspireStarter.Web",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\favicon.png",
+      "Identity": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\favicon.png",
       "SourceId": "AspireStarter.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Solution1\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.Web\\wwwroot\\",
       "BasePath": "_content/AspireStarter.Web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

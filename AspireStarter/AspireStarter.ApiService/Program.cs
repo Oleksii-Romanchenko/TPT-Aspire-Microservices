@@ -1,3 +1,5 @@
+using Messaging;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add service defaults & Aspire components.
@@ -5,6 +7,15 @@ builder.AddServiceDefaults();
 
 // Add services to the container.
 builder.Services.AddProblemDetails();
+
+var host = builder.Configuration["Transport:host"];
+
+if (string.IsNullOrEmpty(host))
+{
+    throw new SystemException("rabbitmq settings are not defined");
+}
+
+builder.Services.WithMassTransitTransport(host);
 
 var app = builder.Build();
 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZkdIwhpTG1t2gvxasXC7YmtXRSbVu4wLX5oEfshO1Rw=",
+  "Source": "Aspire.WorkerService",
+  "BasePath": "_content/Aspire.WorkerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

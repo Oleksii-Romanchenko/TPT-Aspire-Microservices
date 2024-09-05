@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class Aspire_WorkerService : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Aspire.WorkerService\Aspire.WorkerService.csproj""";
+    public string ProjectPath => """C:\Projects\TPT\Aspire\Aspire.Microservices\Aspire.WorkerService\Aspire.WorkerService.csproj""";
 }

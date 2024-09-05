@@ -4,10 +4,13 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <UserSecretsId>755858b4-4c92-4984-ae03-8ebe16d23212</UserSecretsId>
     </PropertyGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\..\Messaging.Commands\Messaging.Commands.csproj" />
         <ProjectReference Include="..\AspireStarter.ServiceDefaults\AspireStarter.ServiceDefaults.csproj"/>
+        <ProjectReference Include="..\Libraries\Messaging\Messaging.csproj" />
     </ItemGroup>
 
 </Project>

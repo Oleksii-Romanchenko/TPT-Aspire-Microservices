@@ -11,19 +11,19 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9868D2BE-3D54-40FA-BB9B-AFFCFDF59DD7")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\dc" +
-    "p.exe")]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\ex" +
-    "t\\")]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\ex" +
-    "t\\bin\\")]
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\aspire.hosting.orchestration.win-x64" +
+    "\\8.2.0\\tools\\dcp.exe")]
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\aspire.hosting.orchestration.win-x64" +
+    "\\8.2.0\\tools\\ext\\")]
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\aspire.hosting.orchestration.win-x64" +
+    "\\8.2.0\\tools\\ext\\bin\\")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.AppHost")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Dashboard.Sdk.win-x64\\8.1.0\\tools\\Aspire.Das" +
-    "hboard.exe")]
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\8.2.0\\t" +
+    "ools\\Aspire.Dashboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireStarter.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9bb11f7dd6e8ddb202d00c228c4879842e476f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireStarter.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireStarter.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

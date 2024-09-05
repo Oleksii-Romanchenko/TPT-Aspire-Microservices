@@ -1,0 +1,13 @@
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\bin\Debug\net8.0\Messaging.deps.json
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\bin\Debug\net8.0\Messaging.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\bin\Debug\net8.0\Messaging.pdb
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\Messaging.csproj.AssemblyReference.cache
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\Messaging.AssemblyInfoInputs.cache
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\Messaging.AssemblyInfo.cs
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\Messaging.csproj.CoreCompileInputs.cache
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\Messaging.sourcelink.json
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\Messaging.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\refint\Messaging.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\Messaging.pdb
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\Libraries\Messaging\obj\Debug\net8.0\ref\Messaging.dll

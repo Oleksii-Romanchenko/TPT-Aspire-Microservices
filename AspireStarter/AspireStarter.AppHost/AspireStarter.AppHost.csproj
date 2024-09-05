@@ -10,13 +10,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\Aspire.WorkerService\Aspire.WorkerService.csproj" />
+        <ProjectReference Include="..\..\Aspire.WorkerService\Aspire.WorkerService.csproj" />
         <ProjectReference Include="..\AspireStarter.ApiService\AspireStarter.ApiService.csproj"/>
         <ProjectReference Include="..\AspireStarter.Web\AspireStarter.Web.csproj"/>
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="Aspire.Hosting.AppHost" Version="8.1.0"/>
+        <PackageReference Include="Aspire.Hosting.AppHost" Version="8.2.0" />
     </ItemGroup>
 
 </Project>

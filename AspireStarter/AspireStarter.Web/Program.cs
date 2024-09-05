@@ -1,5 +1,6 @@
 using AspireStarter.Web;
 using AspireStarter.Web.Components;
+using Messaging;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,9 @@ builder.AddServiceDefaults();
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+var host = builder.Configuration["Transport:host"];
+builder.Services.WithMassTransitTransport(host);
 
 builder.Services.AddOutputCache();
 

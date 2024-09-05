@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lgB0Hbgh/KZEfOBtZef74VgPfVRreopDMzOp1tQ/p4vrkuKswTqNga1lEfbOAAhg3qlWdTMHX6wEslMRbA6ttA==",
+  "dgSpecHash": "OBx91emegju+HTyMh9EYPd4zXNsWZyebruIEbkPfGYpYUe9sSKR0+vhJfSLZt8CjkBzRrQpwbzRe1EjrIIkKog==",
   "success": true,
   "projectFilePath": "C:\\Projects\\TPT\\Aspire\\Aspire.Microservices\\AspireStarter\\AspireStarter.ApiService\\AspireStarter.ApiService.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\grpc.net.client\\2.52.0\\grpc.net.client.2.52.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\grpc.net.common\\2.52.0\\grpc.net.common.2.52.0.nupkg.sha512",
+    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\masstransit\\8.2.6-develop.1979\\masstransit.8.2.6-develop.1979.nupkg.sha512",
+    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\masstransit.abstractions\\8.2.6-develop.1979\\masstransit.abstractions.8.2.6-develop.1979.nupkg.sha512",
+    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\masstransit.rabbitmq\\8.2.6-develop.1979\\masstransit.rabbitmq.8.2.6-develop.1979.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\8.7.0\\microsoft.extensions.ambientmetadata.application.8.7.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\8.7.0\\microsoft.extensions.compliance.abstractions.8.7.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -19,6 +22,8 @@
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.diagnostics\\8.0.0\\microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.diagnostics.exceptionsummarization\\8.7.0\\microsoft.extensions.diagnostics.exceptionsummarization.8.7.0.nupkg.sha512",
+    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\8.0.0\\microsoft.extensions.diagnostics.healthchecks.8.0.0.nupkg.sha512",
+    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\8.0.0\\microsoft.extensions.diagnostics.healthchecks.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.features\\8.0.7\\microsoft.extensions.features.8.0.7.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
@@ -49,8 +54,10 @@
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\polly.core\\8.4.1\\polly.core.8.4.1.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\polly.extensions\\8.4.1\\polly.extensions.8.4.1.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\polly.ratelimiting\\8.4.1\\polly.ratelimiting.8.4.1.nupkg.sha512",
+    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
-    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\oleksii.romanchenko\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
   ],
   "logs": []

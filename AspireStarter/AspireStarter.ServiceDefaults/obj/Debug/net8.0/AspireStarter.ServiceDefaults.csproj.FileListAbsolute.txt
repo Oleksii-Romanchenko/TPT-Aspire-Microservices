@@ -10,3 +10,16 @@ C:\Projects\TPT\Aspire\Solution1\AspireStarter\AspireStarter.ServiceDefaults\obj
 C:\Projects\TPT\Aspire\Solution1\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\refint\AspireStarter.ServiceDefaults.dll
 C:\Projects\TPT\Aspire\Solution1\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.pdb
 C:\Projects\TPT\Aspire\Solution1\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\ref\AspireStarter.ServiceDefaults.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\bin\Debug\net8.0\AspireStarter.ServiceDefaults.deps.json
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\bin\Debug\net8.0\AspireStarter.ServiceDefaults.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\bin\Debug\net8.0\AspireStarter.ServiceDefaults.pdb
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.AssemblyInfo.cs
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.sourcelink.json
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\refint\AspireStarter.ServiceDefaults.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\AspireStarter.ServiceDefaults.pdb
+C:\Projects\TPT\Aspire\Aspire.Microservices\AspireStarter\AspireStarter.ServiceDefaults\obj\Debug\net8.0\ref\AspireStarter.ServiceDefaults.dll

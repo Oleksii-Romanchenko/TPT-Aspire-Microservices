@@ -8,6 +8,6 @@ builder.AddProject<AspireStarter_Web>("webfrontend")
     .WithExternalHttpEndpoints()
     .WithReference(apiService);
 
-builder.AddProject<Aspire_WorkerService>("workerService");
+builder.AddProject<Aspire_WorkerService>("workerservice");
 
 builder.Build().Run();

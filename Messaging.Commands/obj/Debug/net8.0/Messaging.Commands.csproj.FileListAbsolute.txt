@@ -1,0 +1,12 @@
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\bin\Debug\net8.0\Messaging.Commands.deps.json
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\bin\Debug\net8.0\Messaging.Commands.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\bin\Debug\net8.0\Messaging.Commands.pdb
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\Messaging.Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\Messaging.Commands.AssemblyInfoInputs.cache
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\Messaging.Commands.AssemblyInfo.cs
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\Messaging.Commands.csproj.CoreCompileInputs.cache
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\Messaging.Commands.sourcelink.json
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\Messaging.Commands.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\refint\Messaging.Commands.dll
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\Messaging.Commands.pdb
+C:\Projects\TPT\Aspire\Aspire.Microservices\Messaging.Commands\obj\Debug\net8.0\ref\Messaging.Commands.dll
